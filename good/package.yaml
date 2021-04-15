@@ -1,0 +1,14 @@
+name:       good
+maintainer: Matt Wraith <wraithm@gmail.com>
+homepage:   https://github.com/wraithm/5523-stack-test
+author:     Matt Wraith
+copyright:  2021 Matt Wraith
+license:    BSD3
+version:    0.1.0
+synopsis:   Good exec
+
+executables:
+  good:
+    main: Main.hs
+    dependencies:
+      - base
